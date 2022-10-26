@@ -1,4 +1,4 @@
-Here are  Kaggle project 'Disaster Tweets'
+Here are jupyter notebooks for Kaggle project 'Disaster Tweets'
 https://www.kaggle.com/competitions/nlp-getting-started/submissions
 
 3 notebooks for each model:<br>
